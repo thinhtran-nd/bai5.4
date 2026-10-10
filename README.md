@@ -13,13 +13,16 @@
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Ảnh màn hình Giao diện chính
-<img width="813" height="504" alt="GD4" src="https://github.com/user-attachments/assets/f34984dc-647d-4d4e-83db-0ae21c489d99" />
+<img width="1920" height="1080" alt="GD" src="https://github.com/user-attachments/assets/25848e84-4dd1-4309-a348-f135d68c2980" />
+
 
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-<img width="811" height="498" alt="KQ4" src="https://github.com/user-attachments/assets/35aaf45d-91a7-4bd6-a683-06e133a15838" />
+<img width="1920" height="1080" alt="KQ1" src="https://github.com/user-attachments/assets/48878ec7-7c7e-435f-885b-1af271296a10" />
+<img width="1920" height="1080" alt="KQ" src="https://github.com/user-attachments/assets/fd8c822f-7c6b-4d84-90d7-74e187be3e33" />
+
 
 
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-<img width="809" height="502" alt="LS4" src="https://github.com/user-attachments/assets/a360d350-25bb-4fb6-b583-15b3690826fe" />
+
